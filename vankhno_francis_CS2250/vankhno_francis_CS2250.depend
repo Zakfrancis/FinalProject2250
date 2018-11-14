@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542233611 source:c:\users\zak\desktop\test projects c++\vankhno_francis_cs2250\main.cpp
+	<iostream>
+	<fstream>
+

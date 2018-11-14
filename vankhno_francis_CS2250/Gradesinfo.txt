@@ -1,0 +1,7 @@
+Average grade of student 1 in class 1: 90
+Average grade of student 2 in class 1: 90
+Average grade of class 1: 90
+Average grade of student 1 in class 2: 90
+Average grade of student 2 in class 2: 90
+Average grade of class 2: 90
+Average grade of the university: 270
